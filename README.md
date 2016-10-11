@@ -15,6 +15,7 @@ This repo is designed to:
 ## Scope
 
 The scope of this doco is:
+* timing
 * format
 * speakers
 * price
@@ -30,6 +31,9 @@ Please raise issues or PRs with your concerns/suggestions
 
 ## The Riak Core Conference
 
+### Timing
+
+February 2017?
 
 ### Format
 
