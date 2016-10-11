@@ -51,6 +51,7 @@ The social event will be a 'pay your own way' in a pub/restau
 
 The proposed speakers are:
 * Russell Brown (Leeds) Basho - Big Sets as a riak_core app
+* Alejandro Ramallo (London) Leapsight - LSD on riak_core
 * Ben Tyler (??) - building Phoenix apps with riak_core
 * Mariano Guerra (Germany) - Authoer of the Little Riak Core Book
 * Heinz Geis - (Germany) DalataminerDB
