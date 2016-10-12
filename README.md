@@ -54,8 +54,10 @@ The proposed speakers are:
 * Alejandro Ramallo (London) Leapsight - LSD on riak_core
 * Ben Tyler (??) - building Phoenix apps with riak_core
 * Mariano Guerra (Germany) - Authoer of the Little Riak Core Book
-* Heinz Geis - (Germany) DalataminerDB
 * Roman Shestakov - (London) Riak Core at Goldman Sachs 
+
+Party Pooper
+* Heinz Geis - (Germany) DalataminerDB - he's so buuuussssy ;-)
 
 ### Price
 
